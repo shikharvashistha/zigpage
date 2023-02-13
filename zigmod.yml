@@ -1,0 +1,7 @@
+id: w935lqsu2lbgn3kmj8qnd1h2tajvf3trhedsc7i1j4hne7xb
+name: zigpage
+license: MIT
+description: Basic webpage in zig
+build_dependencies:
+    - src: git https://github.com/zenith391/capy
+root_dependencies:
