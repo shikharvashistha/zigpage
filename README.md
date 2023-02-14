@@ -14,8 +14,8 @@
 
 ### How to Run
 
-```zig build run ```
+```zig build run```
 
 ### Screenshot
 
-![image](https://user-images.githubusercontent.com/51105234/218696864-9ac57490-bb83-494a-bb25-ff4d5039cce2.png)
+![image](https://user-images.githubusercontent.com/51105234/218716336-d6c1474c-a9e6-4c39-964e-46299717582c.png)
