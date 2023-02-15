@@ -18,4 +18,4 @@
 
 ### Screenshot
 
-![image](https://user-images.githubusercontent.com/51105234/218716336-d6c1474c-a9e6-4c39-964e-46299717582c.png)
+![image](https://user-images.githubusercontent.com/51105234/218930978-a50027a1-6536-4d2d-8ccd-197e55a9cd3d.png)
